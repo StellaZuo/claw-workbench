@@ -1,0 +1,16 @@
+{
+  "name": "里里工作台",
+  "short_name": "里里",
+  "description": "左星的个人工作台：工作 / 减脂 / 学习 / 复盘 / 生活，手机主屏即可使用。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
