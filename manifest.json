@@ -4,6 +4,7 @@
   "description": "左星的个人工作台：工作 / 减脂 / 学习 / 复盘 / 生活，手机主屏即可使用。",
   "lang": "zh-CN",
   "start_url": "./index.html",
+  "id": "/claw-workbench/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
